@@ -1,0 +1,12 @@
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Debug\CRUD Student.exe.config
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Debug\CRUD Student.exe
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Debug\CRUD Student.pdb
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.csproj.AssemblyReference.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD_Student.Properties.Resources.resources
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.csproj.GenerateResource.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.exe
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD Student.pdb
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD_Student.management.resources
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Debug\CRUD_Student.Account.resources

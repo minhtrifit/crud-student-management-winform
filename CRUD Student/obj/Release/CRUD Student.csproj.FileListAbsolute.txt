@@ -1,0 +1,12 @@
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Release\CRUD Student.exe.config
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Release\CRUD Student.exe
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\bin\Release\CRUD Student.pdb
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.csproj.AssemblyReference.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD_Student.Account.resources
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD_Student.Management.resources
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD_Student.Properties.Resources.resources
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.csproj.GenerateResource.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.exe
+C:\Users\Minh Tri\source\repos\CRUD Student\CRUD Student\obj\Release\CRUD Student.pdb
